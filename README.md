@@ -1,2 +1,4 @@
 # Beginners-Scripts
-Hier publiceer ik mijn eerste .py scripts. 
+Hier publiceer ik mijn eerste 33 .py scripts op beginnersniveau. 
+
++++
