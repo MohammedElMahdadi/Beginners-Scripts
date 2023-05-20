@@ -20,6 +20,18 @@ Het niveau van de .py scripts is op beginnersniveau. Met beginnersniveau bedoel 
 - Errors and Exception Handling
 
 -------------------------------------------------------------------------------------------------------------------------------
+Uitleg Tijd 1.0.py
+
+Het is een simpele programma dat o.a. na gaat hoe lang je hebt geleeft tot nu.
+
+Er moeten zo veel mogelijk functies aan toegevoegd worden. Daarnaast moet de berekening van aantal maanden, dagen, etc. preciezer berekent worden.
+
+-------------------------------------------------------------------------------------------------------------------------------
+Uitleg Three Cup Monte.py
+
+Deze script draait dus om op beginnersniveau functies met elkaar te laten samenwerken.
+
+-------------------------------------------------------------------------------------------------------------------------------
 
 Uitleg Hello World.py
 
@@ -56,7 +68,8 @@ Het mist alleen nog heel wat dingen. Als de script werkt zoals ik dat heb gewild
 Het draait er natuurlijk niet om dat je geadvanceerde GUI's moet gaan gebruiken voor een spel dat het wel goed doet. Het draait er meer om te oefenen met de stof op PYTHON CURRICULUM 1 niveau.
 
 --------------------------------------------------------------------------------------------------------------------------------
+Uitleg Verzin Jouw Lijst.py
 
-
+Hier oefende ik door functies te laten samenwerken. Dat kan vaak lastig zijn. Al helemaal als de functie logica gebaseerd is op een while loop.
 
 
