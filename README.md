@@ -72,6 +72,10 @@ Ik bekrikitseer hoe de BMI-waarde wordt bepaald. Ze gaan alleen uit van lengte e
 
 In BMI 2.0.py zal ik komen met een voorstel hoe de BMI-rekenmachine verbeterd kan worden.
 
+Er is een .exe file van gemaakt:
+
+https://objects.githubusercontent.com/github-production-release-asset-2e65be/643119235/ba61393b-cfc8-4cbe-97b5-d95b8b0096b8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230520%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230520T132701Z&X-Amz-Expires=300&X-Amz-Signature=5ae279c7878beb7cab108233499409efb0f7e51091553501beb77b723fa0a0dd&X-Amz-SignedHeaders=host&actor_id=134045983&key_id=0&repo_id=643119235&response-content-disposition=attachment%3B%20filename%3DBMI1.0.rar&response-content-type=application%2Foctet-stream
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 Uitleg Tic Tac Toe 1.0.py
