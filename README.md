@@ -4,6 +4,8 @@ Al mijn scripts worden geschreven in Python.
 
 Ik vind het belangrijk om coden niet klakkeloos te kopieeren en te plakken, maar juist met mijn eigen oplossingen komen. Dat zorgt er voor dat je getraind bent in oplossingsgerichtheid. Daarnaast kun je bepaalde scripts wel op meerdere manieren schrijven die hetzelfde uitvoeren. Dat kun je dus zien als met meerdere bewijzen komen van de stelling van Pythagoras. Dat is niet alleen leuk, maar zorgt er voor dat je meer kennis moet op doen en meer inzicht verkrijgt.
 
+Alle scripts eindigend met 1.0 moeten nog uitgebreid worden. Daar is dus alleen een begin aan gemaakt.
+
 -------------------------------------------------------------------------------------------------------------------------------
 
 Het niveau van de .py scripts is op beginnersniveau. Met beginnersniveau bedoel ik het beheersen van PYTHON CURRICULUM 1:
