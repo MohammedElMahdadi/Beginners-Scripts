@@ -20,6 +20,19 @@ Het niveau van de .py scripts is op beginnersniveau. Met beginnersniveau bedoel 
 - Errors and Exception Handling
 
 -------------------------------------------------------------------------------------------------------------------------------
+Uitleg Rekening Berekenen Pizza.py
+
+In deze script worden het eten van een Pizza's berekend in prijs.
+
+Dit is een voorbeeld. Dus dezelfde principes van the script kan ook toepasbaar zijn in vragen als:
+
+- Hoeveel belasting moet ik betalen (volgens het boxenstelsel)?
+- Hoeveel moet ik betalen aan reiskosten in de bus/taxi/trein/..?
+- Hoeveel moet ik betalen als er voordelige deals zijn?
+- Over het algemeen: Hoeveel moet ik betalen als ik X, Y, Z, ... wel of niet inclusief wil?
+- etc.
+
+-------------------------------------------------------------------------------------------------------------------------------
 Uitleg Tijd 1.0.py
 
 Het is een simpele programma dat o.a. na gaat hoe lang je hebt geleeft tot nu.
