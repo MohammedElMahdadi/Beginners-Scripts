@@ -34,7 +34,6 @@ Dit is een voorbeeld. Dus dezelfde principes van the script kan ook toepasbaar z
 
 Ik heb er ook een .exe van gemaakt:
 
-https://objects.githubusercontent.com/github-production-release-asset-2e65be/643119235/132a98da-3030-4c5d-81c4-b4cae6b8e8ab?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230520%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230520T131126Z&X-Amz-Expires=300&X-Amz-Signature=7e40ad7f9b600a668c4af5486e13304833a61c92f90c81e7734af106afdcbf4c&X-Amz-SignedHeaders=host&actor_id=134045983&key_id=0&repo_id=643119235&response-content-disposition=attachment%3B%20filename%3DRekeningBerekenenPizza.exe&response-content-type=application%2Foctet-stream
 
 -------------------------------------------------------------------------------------------------------------------------------
 Uitleg Tijd 1.0.py
