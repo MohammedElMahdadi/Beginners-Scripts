@@ -32,6 +32,10 @@ Dit is een voorbeeld. Dus dezelfde principes van the script kan ook toepasbaar z
 - Over het algemeen: Hoeveel moet ik betalen als ik X, Y, Z, ... wel of niet inclusief wil?
 - etc.
 
+Ik heb er ook een .exe van gemaakt:
+
+https://github.com/MohammedElMahdadi/Beginners-Scripts/releases/tag/Python
+
 -------------------------------------------------------------------------------------------------------------------------------
 Uitleg Tijd 1.0.py
 
