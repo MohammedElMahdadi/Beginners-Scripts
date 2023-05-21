@@ -8,7 +8,7 @@ Alle scripts eindigend met 1.0 moeten nog uitgebreid worden. Daar is dus alleen 
 
 Heb je een idee waar ik een script over kan schrijven? Stuur een e-mail naar: mohammed_elmahdadi@outlook.com
 
-Ik geef bijna dagelijks updates over de algemene LucidChart die ik heb opgesteld. Daarin heb ik een algoritme gevisualizeerd hoe ik te werk ga.
+Ik geef bijna dagelijks updates. De algemene LucidChart geeft een visualisatie in hoe ik te werk ga.
 
 -------------------------------------------------------------------------------------------------------------------------------
 
@@ -24,12 +24,14 @@ Het niveau van de .py scripts is op beginnersniveau. Met beginnersniveau bedoel 
 - Errors and Exception Handling
 
 -------------------------------------------------------------------------------------------------------------------------------
-UPDATE Three Cup Monte.py
+UPDATE ThreeCupMonte2.0.py
 
+Ik was hiervoor begonnen met de script Three Cup Monte 1.0.py. Alleen vond ik dat er heel veel miste. De volgende updates heb ik er aan gegeven:
 
-
-
-
+- Index keuze kan tussen 1 2 of 3. Niet meer vanaf 0 zoals een computer begint met tellen.
+- Ik heb er een functie aan toegevoegd dat er voor zorgt dat je kan blijven doorraden totdat je er geen zin meer in hebt.
+- De front-end is verbeterd
+- Iedere keer als je goed of fout raadt geeft de shuffle() functie aan op welke index je goed of fout hebt geraden.
 
 -------------------------------------------------------------------------------------------------------------------------------
 Uitleg Rekening Berekenen Pizza.py
