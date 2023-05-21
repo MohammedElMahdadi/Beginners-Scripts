@@ -6,6 +6,10 @@ Ik vind het belangrijk om coden niet klakkeloos te kopieeren en te plakken, maar
 
 Alle scripts eindigend met 1.0 moeten nog uitgebreid worden. Daar is dus alleen een begin aan gemaakt.
 
+Heb je een idee waar ik een script over kan schrijven? Stuur een e-mail naar: mohammed_elmahdadi@outlook.com
+
+Ik geef bijna dagelijks updates over de algemene LucidChart die ik heb opgesteld. Daarin heb ik een algoritme gevisualizeerd hoe ik te werk ga.
+
 -------------------------------------------------------------------------------------------------------------------------------
 
 Het niveau van de .py scripts is op beginnersniveau. Met beginnersniveau bedoel ik het beheersen van PYTHON CURRICULUM 1:
@@ -18,6 +22,14 @@ Het niveau van de .py scripts is op beginnersniveau. Met beginnersniveau bedoel 
 - Object Oriented Programming (OOP)
 - Modules and Packages
 - Errors and Exception Handling
+
+-------------------------------------------------------------------------------------------------------------------------------
+UPDATE Three Cup Monte.py
+
+
+
+
+
 
 -------------------------------------------------------------------------------------------------------------------------------
 Uitleg Rekening Berekenen Pizza.py
