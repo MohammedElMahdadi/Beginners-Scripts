@@ -24,6 +24,22 @@ Het niveau van de .py scripts is op beginnersniveau. Met beginnersniveau bedoel 
 - Errors and Exception Handling
 
 -------------------------------------------------------------------------------------------------------------------------------
+
+NIEUW IDEE 21-5-2023
+
+Ik overweeg om een script te schrijven dat gaat over het berekenen van dingen. Wat er in ieder geval in komt is:
+
+- De som functie
+- De product functie
+- Een functie dat checkt of een getal een priemgetal is.
+- Een functie dat een lijst geeft van alle priemgetallen onder N inclusief aantal priemgetallen
+- Een functie dat checkt of een getal deelbaar is door een ander getal
+- Een functie dat het restant geeft na deling
+- Misschien een functie dat een willekeurig getal geeft waarbij de user kiest tussen min en max
+- en meer..
+
+---------------------------------------------------------------------------------------------------------------------------------
+
 UPDATE 21-5-2023 ThreeCupMonte2.0.py
 
 Ik was hiervoor begonnen met de script Three Cup Monte 1.0.py. Alleen vond ik dat er heel veel miste. De volgende updates heb ik er aan gegeven:
