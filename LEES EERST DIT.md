@@ -24,7 +24,7 @@ Het niveau van de .py scripts is op beginnersniveau. Met beginnersniveau bedoel 
 - Errors and Exception Handling
 
 -------------------------------------------------------------------------------------------------------------------------------
-UPDATE ThreeCupMonte2.0.py
+UPDATE 21-5-2023 ThreeCupMonte2.0.py
 
 Ik was hiervoor begonnen met de script Three Cup Monte 1.0.py. Alleen vond ik dat er heel veel miste. De volgende updates heb ik er aan gegeven:
 
@@ -32,6 +32,10 @@ Ik was hiervoor begonnen met de script Three Cup Monte 1.0.py. Alleen vond ik da
 - Ik heb er een functie aan toegevoegd dat er voor zorgt dat je kan blijven doorraden totdat je er geen zin meer in hebt.
 - De front-end is verbeterd
 - Iedere keer als je goed of fout raadt geeft de shuffle() functie aan op welke index je goed of fout hebt geraden.
+
+Ik heb er een .exe van gemaakt;
+
+https://github.com/MohammedElMahdadi/Beginners-Scripts/releases
 
 -------------------------------------------------------------------------------------------------------------------------------
 Uitleg Rekening Berekenen Pizza.py
