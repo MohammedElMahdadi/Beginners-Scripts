@@ -38,6 +38,10 @@ Ik overweeg om een script te schrijven dat gaat over het berekenen van dingen. W
 - Misschien een functie dat een willekeurig getal geeft waarbij de user kiest tussen min en max
 - en meer..
 
+Rekenmachine 1.0 is te gebruiken via:
+
+https://github.com/MohammedElMahdadi/Beginners-Scripts/releases
+
 ---------------------------------------------------------------------------------------------------------------------------------
 
 UPDATE 21-5-2023 ThreeCupMonte2.0.py
