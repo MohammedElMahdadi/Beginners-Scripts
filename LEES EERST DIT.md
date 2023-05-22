@@ -24,7 +24,9 @@ Het niveau van de .py scripts is op beginnersniveau. Met beginnersniveau bedoel 
 - Errors and Exception Handling
 
 -------------------------------------------------------------------------------------------------------------------------------
+22-5-2023
 
+Vandaag ging het onder andere over randomness. Zie randomness_1.0.py
 
 
 -------------------------------------------------------------------------------------------------------------------------------
