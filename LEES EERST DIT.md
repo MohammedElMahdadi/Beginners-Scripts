@@ -29,15 +29,15 @@ Het niveau van de .py scripts is op beginnersniveau. Met beginnersniveau bedoel 
 Vandaag ging het onder andere over randomness. Zie randomness1.0.py. Daarin kun je een kop of munt spel spelen, laten bepalen wie er moet gaan betalen,
 maar je kan ook een random getal laten bepalen, vaak wordt het gebruikt als: 'een getal onder de tien'.
 
-Daarnaast houd ik me bezig met een script genaamd stat1.0 . Daarin moet van de gegeven waarden bepaald worden:
+Daarnaast hield ik me ook bezig met een script genaamd stat1.0 . Daarin moet van de gegeven waarden bepaald worden:
 
--maximum 
--minimum
+-Maximum 
+-Minimum
 -Gemiddelde
--aantal waarden
+-Variantie
+-Standaarddeviatie
 
-
-en later in stat2.0 komen dan dingen als: modus, mediaan, variantie, Standaarddeviatie, etc.
+Als ik verder ben kan in stat2.0 mogelijk een plot functie geven oftewel een regressielijn laten bepalen. Daarvoor denk ik mogelijk een weg te vinden via the Matplotlib library.
 
 -------------------------------------------------------------------------------------------------------------------------------
 NIEUW IDEE 21-5-2023
