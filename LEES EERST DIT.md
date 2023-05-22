@@ -31,13 +31,13 @@ maar je kan ook een random getal laten bepalen, vaak wordt het gebruikt als: 'ee
 
 Daarnaast hield ik me ook bezig met een script genaamd stat1.0 . Daarin moet van de gegeven waarden bepaald worden:
 
--Maximum 
--Minimum
--Gemiddelde
--Variantie
--Standaarddeviatie
+- Maximum 
+- Minimum
+- Gemiddelde
+- Variantie
+- Standaarddeviatie
 
-Als ik verder ben kan in stat2.0 mogelijk een plot functie geven oftewel een regressielijn laten bepalen. Daarvoor denk ik mogelijk een weg te vinden via the Matplotlib library.
+Als ik verder ben kan ik in stat2.0 mogelijk een plot functie er aan geven (een regressielijn plotter). Daarvoor denk ik mogelijk een weg te vinden via the Matplotlib library.
 
 -------------------------------------------------------------------------------------------------------------------------------
 NIEUW IDEE 21-5-2023
