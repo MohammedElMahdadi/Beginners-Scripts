@@ -25,6 +25,12 @@ Het niveau van de .py scripts is op beginnersniveau. Met beginnersniveau bedoel 
 
 -------------------------------------------------------------------------------------------------------------------------------
 
+22-5-2023
+
+Ik ben bezig met het schrijven van een kop of munt spel.
+
+
+-------------------------------------------------------------------------------------------------------------------------------
 NIEUW IDEE 21-5-2023
 
 Ik overweeg om een script te schrijven dat gaat over het berekenen van dingen. Wat er in ieder geval in komt is:
