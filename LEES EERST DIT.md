@@ -26,7 +26,12 @@ Het niveau van de .py scripts is op beginnersniveau. Met beginnersniveau bedoel 
 -------------------------------------------------------------------------------------------------------------------------------
 22-5-2023
 
-Vandaag ging het onder andere over randomness. Zie randomness_1.0.py
+Vandaag ging het onder andere over randomness. Zie randomness1.0.py. Daarin kun je een kop of munt spel spelen, laten bepalen wie er moet gaan betalen,
+maar je kan ook een random getal laten bepalen, vaak wordt het gebruikt als: 'een getal onder de tien'.
+
+
+
+
 
 
 -------------------------------------------------------------------------------------------------------------------------------
