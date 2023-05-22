@@ -8,7 +8,9 @@ Alle scripts eindigend met 1.0 moeten nog uitgebreid worden. Daar is dus alleen 
 
 Heb je een idee waar ik een script over kan schrijven? Stuur een e-mail naar: mohammed_elmahdadi@outlook.com
 
-Ik geef wekelijks updates. De algemene LucidChart geeft een visualisatie in hoe ik te werk ga.
+Op beginnersniveau geef ik dagelijks updates. Hoe gevorderder het niveau des te langer het duurt om scripts af te maken. 
+
+De algemene LucidChart geeft een visualisatie in hoe ik te werk ga.
 
 -------------------------------------------------------------------------------------------------------------------------------
 
@@ -26,10 +28,10 @@ Het niveau van de .py scripts is op beginnersniveau. Met beginnersniveau bedoel 
 -------------------------------------------------------------------------------------------------------------------------------
 22-5-2023
 
-Vandaag ging het onder andere over randomness. Zie randomness1.0.py. Daarin kun je een kop of munt spel spelen, laten bepalen wie er moet gaan betalen,
++1) Vandaag ging het onder andere over randomness. Zie randomness1.0.py. Daarin kun je een kop of munt spel spelen, laten bepalen wie er moet gaan betalen,
 maar je kan ook een random getal laten bepalen, vaak wordt het gebruikt als: 'een getal onder de tien'.
 
-Daarnaast hield ik me ook bezig met een script genaamd stat1.0 . Daarin moet van de gegeven waarden bepaald worden:
++2) Daarnaast hield ik me ook bezig met een script genaamd stat1.0 . Daarin moet van de gegeven waarden bepaald worden:
 
 - Maximum 
 - Minimum
@@ -38,6 +40,10 @@ Daarnaast hield ik me ook bezig met een script genaamd stat1.0 . Daarin moet van
 - Standaarddeviatie
 
 Als ik verder ben kan ik in stat2.0 mogelijk een plot functie er aan geven (een regressielijn plotter). Daarvoor denk ik mogelijk een weg te vinden via the Matplotlib library.
+
++3) Nu ben ik bezig met een script te schrijven dat een geheim wachtwoord voor je verzint. 
+
+
 
 -------------------------------------------------------------------------------------------------------------------------------
 NIEUW IDEE 21-5-2023
