@@ -8,7 +8,7 @@ Alle scripts eindigend met 1.0 moeten nog uitgebreid worden. Daar is dus alleen 
 
 Heb je een idee waar ik een script over kan schrijven? Stuur een e-mail naar: mohammed_elmahdadi@outlook.com
 
-Ik geef bijna dagelijks updates. De algemene LucidChart geeft een visualisatie in hoe ik te werk ga.
+Ik geef wekelijks updates. De algemene LucidChart geeft een visualisatie in hoe ik te werk ga.
 
 -------------------------------------------------------------------------------------------------------------------------------
 
