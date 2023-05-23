@@ -30,6 +30,8 @@ Het niveau van de .py scripts is op beginnersniveau. Met beginnersniveau bedoel 
 
 +1) Wachtwoord_Generator is nu gepubliceerd . Wel merk ik dat errors heel letterlijk moet worden onderzocht in wat er fout gaat in de code. Zo duren bepaalde scripts zeker twee keer minder lang. 
 
++2) Ik ben nu bezig met een script dat van een bericht een geheime bericht maakt. Je kan dan daarna ook het bericht weer terugkrijgen in mensentaal.
+
 
 --------------------------------------------------------------------------------------------------------------------------------
 
