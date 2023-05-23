@@ -1,4 +1,4 @@
-# Beginners Scripts 1-50
+# Beginners Scripts 1-25
 -------------------------------------------------------------------------------------------------------------------------------
 Al mijn scripts worden geschreven in Python.
 
