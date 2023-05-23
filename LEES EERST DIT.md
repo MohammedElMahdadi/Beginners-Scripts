@@ -25,10 +25,14 @@ Het niveau van de .py scripts is op beginnersniveau. Met beginnersniveau bedoel 
 - Modules and Packages
 - Errors and Exception Handling
 
+-------------------------------------------------------------------------------------------------------------------------------
 23-5-2023
 
 +1) Wachtwoord_Generator is nu gepubliceerd . Wel merk ik dat errors heel letterlijk moet worden onderzocht in wat er fout gaat in de code. Zo duren bepaalde scripts zeker twee keer minder lang. 
--------------------------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 22-5-2023
 
 +1) Vandaag ging het onder andere over randomness. Zie randomness1.0.py. Daarin kun je een kop of munt spel spelen, laten bepalen wie er moet gaan betalen,
