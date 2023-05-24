@@ -25,13 +25,19 @@ Het niveau van de .py scripts is op beginnersniveau. Met beginnersniveau bedoel 
 - Modules and Packages
 - Errors and Exception Handling
 
+
+-------------------------------------------------------------------------------------------------------------------------------
+24-5-2023
+
++1) Geheime_Brief1.0 is gepubliceerd. Dit is mijn eerste stap voor het kraken van geheime brieven. Wat de script doet is: je geeft een woord, daarna je lievelingsgetal tussen 1-25. En daarmee wordt een geheim woord gemaakt die je later kan laten ontrafelen.
+
+
 -------------------------------------------------------------------------------------------------------------------------------
 23-5-2023
 
 +1) Wachtwoord_Generator is nu gepubliceerd . Wel merk ik dat errors heel letterlijk moet worden onderzocht in wat er fout gaat in de code. Zo duren bepaalde scripts zeker twee keer minder lang. 
 
 +2) Ik ben nu bezig met een script dat van een bericht een geheime bericht maakt. Je kan dan daarna ook het bericht weer terugkrijgen in mensentaal.
-
 
 --------------------------------------------------------------------------------------------------------------------------------
 
